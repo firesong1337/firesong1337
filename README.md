@@ -1,6 +1,6 @@
 ## Hi there, my name is Kamil Iskhakov 
 # 💫 About Me:
-🔭 I’m currently working as a frontend developer
+🔭 I’m currently working as a frontend developer\
 🎓 **Bachelor degree in Computer Science at BSU**  
 🎓 **Masters degree in Computer Science at UUST** 
 
